@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">E-learning</string>
+    <string-array name="Class">
+        <item name="class">Web</item>
+        <item name="class">Android</item>
+        <item name="class">Java</item>
+        <item name="class">Swiftr</item>
+        <item name="class">Mysql</item>
+        <item name="class">CET-4</item>
+        <item name="class">CET-6</item>
+    </string-array>
+</resources>
